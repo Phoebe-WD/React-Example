@@ -1,6 +1,6 @@
 # React Example by Phoebe Wilckens 👩‍💻
 
-Created as a example for an Acamica course of Front End Development.
+Created as an example for an Acamica course of Front End Development.
 
 ## Languages used 👩‍💻
 
